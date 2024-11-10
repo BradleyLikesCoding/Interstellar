@@ -18,7 +18,7 @@
 - Wide collection of apps & games
 - Clean, Easy to use UI
 - Inspect Element
-- Various Themes
+- Various Theme
 - Password Protection (Optional)
 - Built-in Tab System
 - Now.gg Support
